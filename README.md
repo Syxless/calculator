@@ -1,6 +1,6 @@
 # Scientific Calculator
 
-This is a simple and user-friendly scientific calculator built using Python and PyQt5. The application supports various mathematical operations, including trigonometric functions, logarithms, and factorials, making it a versatile tool for both students and professionals.
+This project aims to explore code optimization and the creation and editing of graphical user interfaces (GUIs) using Python and PyQt5. The result is a simple and user-friendly scientific calculator that supports various mathematical operations, including trigonometric functions, logarithms, and factorials, making it a versatile tool for both students and professionals.
 
 ## Features
 
